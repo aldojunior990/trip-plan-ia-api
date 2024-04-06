@@ -14,7 +14,7 @@ This is an application that uses the gpt chat api to generate travel itineraries
 1. Clone this repository:
 
 ```
-   git clone https://github.com/aldojunior990/menu-api.git
+   git clone https://github.com/aldojunior990/trip-plan-ia-api.git
 ```
 
 2. Install dependencies with Maven.
