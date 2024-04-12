@@ -27,7 +27,7 @@ This is an application that uses the gpt chat api to generate travel itineraries
 
 ```
  currentLocal - Your city.
- destinarion - City you want to visit.
+ destination - City you want to visit.
  countOfDays - Number of days you will spend in the city.
  travelDate - Date of your trip.
 ```
@@ -35,5 +35,6 @@ This is an application that uses the gpt chat api to generate travel itineraries
 ## Endpoints
 
 ```
- GET roadmap/generate - Login into the app.
+ GET roadmap/generate - Generate script
+.
 ```
